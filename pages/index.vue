@@ -1,6 +1,6 @@
 <template>
   <section class="homeWrapper">
-    <h1 class="welcome">DNA Location Scraper</h1>
+    <h1 class="welcome">Car Dealership Location Scraper</h1>
     <h3 class="instructions">
       Search a city below and check the table for updates.
     </h3>
